@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="creator">KOLINKO</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="select">Select</string>
+    <string name="clear">Clear</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
